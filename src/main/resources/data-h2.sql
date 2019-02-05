@@ -1,1 +1,0 @@
-insert into usuarios VALUES(1,'TESTE NOME');
